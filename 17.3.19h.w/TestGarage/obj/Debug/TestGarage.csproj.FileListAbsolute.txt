@@ -1,0 +1,17 @@
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\TestGarage.dll
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\TestGarage.pdb
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\17.3.19h.w.exe
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\17.3.19h.w.pdb
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\17.3.19h.w.exe.config
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\obj\Debug\TestGarage.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\obj\Debug\TestGarage.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\obj\Debug\TestGarage.csproj.CopyComplete
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\obj\Debug\TestGarage.dll
+C:\Users\Liron\source\repos\17.3.19h.w\TestGarage\obj\Debug\TestGarage.pdb
